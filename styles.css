@@ -7,7 +7,7 @@ html {
 }
 
 .construction-container {
-  background-image: url("img/imagen-en-construccion.jpg.jpg"); /* Ruta de la imagen de fondo */
+  background-image: url("img/imagen-en-construccion.jpg"); /* Ruta de la imagen de fondo */
   background-size: cover;
   background-position: center;
   height: 100vh; /* Ocupa toda la altura de la pantalla */
