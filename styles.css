@@ -50,6 +50,7 @@ header img {
   margin-bottom: 20px;
   color: #333; /* Color del título */
   padding: 10px 20px; /* Agregar relleno alrededor del título */
+  background-color: rgb(255 255 255 / 85%); /* 50% transparent */
   z-index: 1; /* Asegurar que esté en primer plano */
 }
 
@@ -58,6 +59,7 @@ header img {
   margin-bottom: 40px;
   color: #555; /* Color del texto */
   z-index: 1; /* Asegurar que esté en primer plano */
+  background-color: rgb(255 255 255 / 65%); /* 50% transparent */
 }
 
 .image {
